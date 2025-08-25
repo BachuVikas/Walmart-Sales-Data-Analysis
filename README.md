@@ -106,7 +106,7 @@ $ grossProfit(grossIncome) = total(gross_sales) - COGS $
 
 $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
-### Example with the first row in our DB:
+**Example with the first row in our DB:**
 
 **Data given:**
 - $ \text{Unite Price} = 45.79 $
